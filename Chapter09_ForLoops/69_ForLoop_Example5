@@ -1,0 +1,7 @@
+for (let somya =0; somya <18; somya++){
+    if (somya>15){
+        console.log("Congrats! ",somya, "You will get Iphone as a gift!")
+    } else{
+        console.log(somya, "At this Age, No Gift Please!")
+    }
+}
